@@ -1,0 +1,14 @@
+*.class
+*.log
+classes
+.idea
+myycxg.iml
+.mymetadata
+.project
+.project.bak
+.settings
+.classpath
+.externalToolBuilders
+.myeclipse
+artifacts/
+out
